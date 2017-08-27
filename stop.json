@@ -1,0 +1,7 @@
+https://realtimetcatbus.availtec.com/InfoPoint/rest/Stops/GetAllStops
+https://realtimetcatbus.availtec.com/InfoPoint/rest/Routes/GetVisibleRoutes
+https://realtimetcatbus.availtec.com/InfoPoint/rest/Routes/GetAllRoutes
+https://realtimetcatbus.availtec.com/InfoPoint/rest/PublicMessages/GetCurrentMessagesHashCode
+https://realtimetcatbus.availtec.com/InfoPoint/rest/RouteDetails/Get/13
+https://realtimetcatbus.availtec.com/InfoPoint/Resources/Traces/Route11.kml
+https://realtimetcatbus.availtec.com/InfoPoint/rest/Stops/Search?query=
